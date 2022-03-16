@@ -1,0 +1,44 @@
+body
+{
+    background-color: greenyellow;
+}
+
+h1
+{
+    background: rgb(252, 235, 216);
+    font-weight: bold;
+    color: blue;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+#Score
+{
+    font-size: 25px;
+    float: left;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+#Timer
+{
+    font-size: 25px;
+    float: right;
+    margin-right: 30px;
+    font-weight: bold;
+}
+
+#sketch_to_be_drawn
+{
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p
+{
+    font-size: 20px;
+}
